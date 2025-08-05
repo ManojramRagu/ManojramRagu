@@ -1,5 +1,5 @@
 # 💫 Hi I'm Manojram Ragu
-<h1>Undergraduate for BEng (Hons) Software Engineering</h1>Currently studying at Asia Pacific Institute of Information Technology (APIIT)
+<h3>Undergraduate for BEng (Hons) Software Engineering</h3>Currently studying at Asia Pacific Institute of Information Technology (APIIT)
 
 
 ## 🌐 Socials:
