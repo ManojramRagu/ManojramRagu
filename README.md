@@ -34,9 +34,3 @@ Passionate Software Engineering student with a focus on building scalable web ap
 * **CI/CD Pipelines:** Skilled in automating workflows using Git and GitHub for efficient code deployment.
 * **API Integration:** Hands-on experience integrating payment gateways (Stripe) and third-party APIs into web applications.
 * **Hardware Interaction:** Basic experience with **Arduino** for IoT and embedded systems projects.
-
----
-
-## 📊 GitHub Stats
-![Manojram's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojram-ragu&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojram-ragu&layout=compact&theme=transparent)
